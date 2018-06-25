@@ -3646,6 +3646,10 @@ a.splash_interactive__window_link { color: #f0d9ed; }
 
 #page .app_desc_expand_showing .app_profile_desc_fade { background: linear-gradient(180deg, rgba(62, 49, 60, 0) 0, #3e313c 100%); }
 
+#page .service_panel { background-color: #4d394b; }
+
+#page .service_card { background-color: #3e313c; border: 1px solid #4a3b49; }
+
 .app_card, .large_app_card { background-color: #3e313c; border: 1px solid #4d394b; }
 
 nav.top.persistent ul a { color: #f0d9ed; }

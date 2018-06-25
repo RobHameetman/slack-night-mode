@@ -1826,6 +1826,8 @@
   #page .tag:hover { background-color: #545454 !important; }
   #page .app_desc_btn { background-color: #545454; color: #e6e6e6; }
   #page .app_desc_expand_showing .app_profile_desc_fade { background: linear-gradient(180deg, rgba(34, 34, 34, 0) 0, #222 100%); }
+  #page .service_panel { background-color: #363636; }
+  #page .service_card { background-color: #222; border: 1px solid #424242; }
   .app_card, .large_app_card { background-color: #222; border: 1px solid #363636; }
   nav.top.persistent ul a { color: #e6e6e6; }
   nav.top.apps_nav { background: transparent; }
